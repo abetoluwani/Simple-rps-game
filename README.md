@@ -22,6 +22,5 @@ To install the game, run the following command in your terminal:
 - **Windows**:
    - Compile: Use Visual C++ or MinGW
    - Run: Double-click the binary or use the command prompt
-### For different platforms:
 
 Ensure you have the necessary compiler installed for your platform to compile and run C++ code.
